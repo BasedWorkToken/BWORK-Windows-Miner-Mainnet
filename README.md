@@ -23,8 +23,8 @@ Before starting with Based Work Token mining, ensure you have the following:
 - **.NET Core Runtime**: For Windows, download from [Microsoft .NET Download](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.428-windows-x64-installer).
 - **Nvidia or AMD GPU Drivers**: Ensure you have the latest drivers installed that support CUDA or OpenCL, respectively.
 
-For Ubuntu, Go to the [Linux zkBitcoin Miner Github for Ubuntu 16,18,& 20](https://github.com/BasedWorkToken/Miner-Testnet-Ubuntu-16-18-20)
-For Ubuntu, Go to the [Linux zkBitcoin Miner Github for Ubuntu 22&24](https://github.com/BasedWorkToken/Miner-Testnet-Ubuntu-22-24)
+For Ubuntu, Go to the [Linux Based Work Token Miner Github for Ubuntu 16,18,& 20](https://github.com/BasedWorkToken/BWORK-Miner-Ubuntu-16-18-20-Mainnet)
+For Ubuntu, Go to the [Linux Based Work Token Miner Github for Ubuntu 22&24](https://github.com/BasedWorkToken/BWORK-Miner-Ubuntu-22-24-Mainnet)
 
 ### Configuration
 
