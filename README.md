@@ -31,8 +31,8 @@ For Ubuntu, Go to the [Linux Based Work Token Miner Github for Ubuntu 22&24](htt
 1. Open the `BasedWorkToken.conf` file for editing.
 2. Update the following configuration parameters as needed:
    - `minerAddress`: Your Base Blockchain (Ethereum) address for mining rewards (must include the '0x' prefix).
-   - `privateKey`: Your private key associated with the mining Base Blockchain (Ethereum) address.
-   - `MinBWORKperMint` and `MaxBWORKperMint`: Set your desired minimum and maximum Based Work Token rewards per mint transaction. (Note, if omitted, this will default to `50` and `125` zkBitcoin respectively)
+   - `privateKey`: Your private key associated with the mining Base Blockchain address private key.
+   - `MinBWORKperMint` and `MaxBWORKperMint`: Set your desired minimum and maximum Based Work Token rewards per mint transaction. (Note, if omitted, this will default to `25` and `125` zkBitcoin respectively)
    - `HowManyBlocksAWAYFromAdjustmentToSendMinimumBWORK`: Adjust this value based on how many blocks away from the adjustment you wish to start sending the minimum zkBitcoin. This can be a value from 0 - 2000 depending on how many other users are submitting. (Note, if omitted, this will default to `200` blocks)
    - `web3api`: Replace with your own web3api if needed; defaults to the provided Alchemy account for testing.
 
