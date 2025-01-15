@@ -9,10 +9,8 @@ Designed for developers and enthusiasts looking to mine zkBitcoin, a minable ERC
 The Based Work Token Miner is built with the following technologies and libraries:
 
 - **.NET 6.0**: Necessary for running the miner. Download from [Microsoft .NET Download](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.428-windows-x64-installer).
-- **VC++ 2019**: Required for certain cryptographic functions. Download from [Visual Studio](https://aka.ms/vs/16/release/vc_redist.x64.exe) or [Microsoft Support](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads).
 - **nVidia CUDA SDK 12.5** (64-bit): For nVidia GPU support. Ensure your nVidia drivers are version 527.41 or above. [nVidia Drivers](https://www.nvidia.com/drivers/beta).
 - **AMD APP SDK v3.0.130.135** (OpenCL): For AMD GPU support. Download from [Google Drive](https://drive.google.com/file/d/1P5jqRGbWRW1l5vxlm8MqaQRBKpUNUSyf/view?usp=sharing).
-- **gcc 4.8.5**: For compiling on Linux-based systems.
 
 ## Getting Started with Solo Mining
 
